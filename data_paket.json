@@ -1,0 +1,59 @@
+{
+    "Paket": [
+        {
+            "Nama Paket": "Satuan",
+            "Paket": [
+                {
+                    "ID": 1,
+                    "Nama Paket": "Cuci Biasa",
+                    "Harga": 8000
+                },
+                {
+                    "ID": 2,
+                    "Nama Paket": "Setrika",
+                    "Harga": 5000
+                },
+                {
+                    "ID": 3,
+                    "Nama Paket": "Cuci Sepatu",
+                    "Harga": 25000
+                },
+                {
+                    "ID": 4,
+                    "Nama Paket": "Cuci Karpet",
+                    "Harga": 30000
+                }
+            ]
+        },
+        {
+            "Nama Paket": "Komplit",
+            "Paket": [
+                {
+                    "ID": 1,
+                    "Nama Paket": "Cuci + Setrika",
+                    "Harga": 18000
+                },
+                {
+                    "ID": 2,
+                    "Nama Paket": "Dry Cleaning",
+                    "Harga": 20000
+                }
+            ]
+        },
+        {
+            "Nama Paket": "Express",
+            "Paket": [
+                {
+                    "ID": 1,
+                    "Nama Paket": "Cuci Komplit (1 Hari)",
+                    "Harga": 25000
+                },
+                {
+                    "ID": 2,
+                    "Nama Paket": "Cuci Express (5 Jam)",
+                    "Harga": 30000
+                }
+            ]
+        }
+    ]
+}
